@@ -1,7 +1,5 @@
 # german-credit-risk
 
-German Credit Risk
-
 1000 entries with 20 categorical/symbolic features were included in the original dataset, which was created by Prof. Hofmann. Each entry in this collection reflects a person who accepts a bank credit. Depending on a set of factors, each person is categorised as either a good or bad credit risk. The original dataset's URL is provided here.
 This project's objective is to group the clients and categorise 1000 loan applicants as either Good or Bad credit risks.
 
